@@ -119,3 +119,12 @@ footer {
     font-size: 1.8rem;
     padding-left: .5rem;
 }
+
+/* table styling */
+.even {
+    font-weight: bolder;
+}
+
+.odd {
+    color: var(--ch-highlight-color) !important;
+}
